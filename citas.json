@@ -1,0 +1,12 @@
+[
+    {
+        "alumno_id": 1,
+        "docente_id": "1",
+        "dia": "Lunes",
+        "hora": "12:21-12:34",
+        "nombre": "marcos mantilla",
+        "curso": "base de datos",
+        "motivo": "expiaci\u00f3n del tema ",
+        "estado": "confirmada"
+    }
+]
